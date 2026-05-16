@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+transformers
+scikit-learn
+matplotlib
+Pillow
+tqdm
+umap-learn
